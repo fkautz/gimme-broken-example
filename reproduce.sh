@@ -31,8 +31,6 @@ echo "GOROOT: $GOROOT"
 echo "PATH: $PATH"
 go version || true
 
-echo "---"
-
 echo "--- from gimme, /usr/local/go removed, ~/.gimme removed"
 PATH=$OLDPATH
 rm -rf ~/.gimme

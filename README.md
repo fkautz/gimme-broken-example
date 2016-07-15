@@ -15,7 +15,6 @@ go: cannot find GOROOT directory: /usr/local/go
 GOROOT: 
 PATH: /root/.gimme/versions/go1.6.2.linux.amd64/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/root/bin
 go: cannot find GOROOT directory: /usr/local/go
----
 --- from gimme, /usr/local/go removed, ~/.gimme removed
 go version go1.6.2 linux/amd64
 GOROOT: /root/.gimme/versions/go1.6.2.linux.amd64
